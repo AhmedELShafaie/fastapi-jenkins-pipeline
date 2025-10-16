@@ -1,5 +1,6 @@
-# fastapi-jenkins-pipeline
-🍅 A Jenkins Pipeline which lints, tests, builds and even deploys a simple python FastAPI application.
+# fastapi-action
+🍅 A GitHub action which lints, tests, builds and even deploys a simple python FastAPI application.
+>>>>>>> 79e8680 (Inital)
 ✨ Powered by Uvicorn, an tiny ASGI web server implementation for Python.
 
 ## Jobs
@@ -17,4 +18,3 @@
 [🔌 API sample endpoints](https://fastapi-test-otomato.herokuapp.com/docs)
 
 [🚑 Health check URI](https://fastapi-test-otomato.herokuapp.com/health)
-
