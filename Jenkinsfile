@@ -11,7 +11,7 @@ pipeline{
             steps {
                 sh '''
                   pip3 install -r requirements.txt 
-                  pip3 install --upgrade pytest pytest-cov pytest-html pytest-sugar pytest-json-report  --break-system-packages
+                  pip3 install --upgrade pytest pytest-cov pytest-html pytest-sugar pytest-json-report
                   python3 -m pytest -v --cov --html=reports/pytest/report.html
                 '''
                 archiveArtifacts artifacts: 'reports/pytest/*',
