@@ -1,0 +1,24 @@
+Update Jenkinsfile
+
+change calls
+# Conflicts:
+#	Jenkinsfile
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Ant Weiss <ant.weiss@gmail.com>
+# Committer: Super User <root@almalinux10.example.com>
+#
+# interactive rebase in progress; onto 846250e
+# Last commands done (10 commands done):
+#    pick 993d2d5 Update Jenkinsfile
+#    pick ff439c3 Update Jenkinsfile
+# Next commands to do (2 remaining commands):
+#    pick 5604612 Update README.md
+#    pick e7e00b1 Change docker label to any
+# You are currently rebasing branch 'main' on '846250e'.
+#
+# Changes to be committed:
+#	renamed:    Jenkinsfile -> Jenkinsfile-old
+#

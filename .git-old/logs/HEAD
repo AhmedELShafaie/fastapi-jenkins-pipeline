@@ -1,0 +1,34 @@
+0000000000000000000000000000000000000000 250c478516037851747464ae577d990c53558d4a Super User <root@almalinux10.example.com> 1760611205 +0000	clone: from https://github.com/otomato-gh/fastapi-jenkins-pipeline
+250c478516037851747464ae577d990c53558d4a 846250e6bb45fbf7d682b82642bd99c2dfbec222 Super User <root@almalinux10.example.com> 1760611323 +0000	commit: Change docker label to any
+846250e6bb45fbf7d682b82642bd99c2dfbec222 0000000000000000000000000000000000000000 Super User <root@almalinux10.example.com> 1760611444 +0000	Branch: renamed refs/heads/main to refs/heads/main
+846250e6bb45fbf7d682b82642bd99c2dfbec222 846250e6bb45fbf7d682b82642bd99c2dfbec222 Super User <root@almalinux10.example.com> 1760611444 +0000	Branch: renamed refs/heads/main to refs/heads/main
+846250e6bb45fbf7d682b82642bd99c2dfbec222 6e6dee79680b8c1561e908dea7173a6f9466c785 Super User <root@almalinux10.example.com> 1760612546 +0000	pull --rebase (start): checkout 6e6dee79680b8c1561e908dea7173a6f9466c785
+6e6dee79680b8c1561e908dea7173a6f9466c785 f16ed88a953204bcde45842342ac7ecc076e4bb6 Super User <root@almalinux10.example.com> 1760612667 +0000	commit: Inital pull
+f16ed88a953204bcde45842342ac7ecc076e4bb6 eeba6123371040e7ebaeef79cf6392603fb50ae9 Super User <root@almalinux10.example.com> 1760613090 +0000	commit: fix conflicts
+eeba6123371040e7ebaeef79cf6392603fb50ae9 d8e2506936571f182de346dc6e9b457aaa7f7942 Super User <root@almalinux10.example.com> 1760613096 +0000	rebase (pick): Create Jenkinsfile
+d8e2506936571f182de346dc6e9b457aaa7f7942 c3b151e8f764c64077322de97c6762c279049c12 Super User <root@almalinux10.example.com> 1760613096 +0000	rebase (pick): Update Jenkinsfile
+c3b151e8f764c64077322de97c6762c279049c12 aadc93e825be8c37cf1d50a05fc443070bdba231 Super User <root@almalinux10.example.com> 1760613096 +0000	rebase (pick): Update Jenkinsfile
+aadc93e825be8c37cf1d50a05fc443070bdba231 2c06beba4224e9529f4e2d551bd3a7648ca5d9c2 Super User <root@almalinux10.example.com> 1760613096 +0000	rebase (pick): Update Jenkinsfile
+2c06beba4224e9529f4e2d551bd3a7648ca5d9c2 e92831bdc838cd2f9263dc97758093b5cb0db284 Super User <root@almalinux10.example.com> 1760613096 +0000	rebase (pick): Update Jenkinsfile
+e92831bdc838cd2f9263dc97758093b5cb0db284 f7a1d5e833235e25c4e6e678de0ca98b7c382508 Super User <root@almalinux10.example.com> 1760613096 +0000	rebase (pick): Update Jenkinsfile
+f7a1d5e833235e25c4e6e678de0ca98b7c382508 993d2d5acb2903e5fe31e7b2b2efc0cf716ce3e6 Super User <root@almalinux10.example.com> 1760613096 +0000	rebase (pick): Update Jenkinsfile
+993d2d5acb2903e5fe31e7b2b2efc0cf716ce3e6 ff439c38bcbe6013fd22b6c1592f33c3c02a461f Super User <root@almalinux10.example.com> 1760613096 +0000	rebase (pick): Update Jenkinsfile
+ff439c38bcbe6013fd22b6c1592f33c3c02a461f 560461217db64343f641925b3a9911e30845f8f2 Super User <root@almalinux10.example.com> 1760613150 +0000	rebase (continue): Update README.md
+560461217db64343f641925b3a9911e30845f8f2 e7e00b1356eca1c793ffc505636d7fd060fd11a9 Super User <root@almalinux10.example.com> 1760613155 +0000	rebase (pick): Change docker label to any
+e7e00b1356eca1c793ffc505636d7fd060fd11a9 e7e00b1356eca1c793ffc505636d7fd060fd11a9 Super User <root@almalinux10.example.com> 1760613155 +0000	rebase (finish): returning to refs/heads/main
+e7e00b1356eca1c793ffc505636d7fd060fd11a9 846250e6bb45fbf7d682b82642bd99c2dfbec222 Super User <root@almalinux10.example.com> 1760613186 +0000	pull origin main (start): checkout 846250e6bb45fbf7d682b82642bd99c2dfbec222
+846250e6bb45fbf7d682b82642bd99c2dfbec222 2b4db74454f2238d3fd36566e3b821a5c1233215 Super User <root@almalinux10.example.com> 1760613186 +0000	pull origin main (pick): fix conflicts
+2b4db74454f2238d3fd36566e3b821a5c1233215 620d775929fb2b682df26a44f8d17dc3109fb6ad Super User <root@almalinux10.example.com> 1760622835 +0000	rebase (pick): Update Jenkinsfile
+620d775929fb2b682df26a44f8d17dc3109fb6ad a5c0e95bf3359c0a8db88ad2ea98cdbbe79ac8ef Super User <root@almalinux10.example.com> 1760622835 +0000	rebase (pick): Update Jenkinsfile
+a5c0e95bf3359c0a8db88ad2ea98cdbbe79ac8ef b9f29974b8e55117c07a645e9bc0d0792eb6f54c Super User <root@almalinux10.example.com> 1760622835 +0000	rebase (pick): Update Jenkinsfile
+b9f29974b8e55117c07a645e9bc0d0792eb6f54c deb7f3671c4298cf135e92bff6e7e67410737b01 Super User <root@almalinux10.example.com> 1760622854 +0000	rebase (continue): Update Jenkinsfile
+deb7f3671c4298cf135e92bff6e7e67410737b01 9d8bf41987971ab101afe0e01dda3e6e2f8cc617 Super User <root@almalinux10.example.com> 1760622857 +0000	rebase (pick): Update README.md
+9d8bf41987971ab101afe0e01dda3e6e2f8cc617 9d8bf41987971ab101afe0e01dda3e6e2f8cc617 Super User <root@almalinux10.example.com> 1760622857 +0000	rebase (finish): returning to refs/heads/main
+9d8bf41987971ab101afe0e01dda3e6e2f8cc617 795bb0e5029bf47e4ff5c3fa031126ad293f1925 Super User <root@almalinux10.example.com> 1760622872 +0000	pull origin main (start): checkout 795bb0e5029bf47e4ff5c3fa031126ad293f1925
+795bb0e5029bf47e4ff5c3fa031126ad293f1925 50a5ad45dc7280fa1864f1ca2fb02cf3aa8e06c9 Super User <root@almalinux10.example.com> 1760622872 +0000	pull origin main (pick): fix conflicts
+50a5ad45dc7280fa1864f1ca2fb02cf3aa8e06c9 696fa8bcd76b2b9395d05451dd744923a87515a1 Super User <root@almalinux10.example.com> 1760622872 +0000	pull origin main (pick): Update Jenkinsfile
+696fa8bcd76b2b9395d05451dd744923a87515a1 be29d233b58a0069ece4a438ab3ba785c1438784 Super User <root@almalinux10.example.com> 1760622872 +0000	pull origin main (pick): Update Jenkinsfile
+be29d233b58a0069ece4a438ab3ba785c1438784 d0de2745ba7b96287a12308d9e1e3386274b3bc0 Super User <root@almalinux10.example.com> 1760622872 +0000	pull origin main (pick): Update Jenkinsfile
+d0de2745ba7b96287a12308d9e1e3386274b3bc0 2ede8b2cf5bf27ef0b9e84e8aad087e8447933e0 Super User <root@almalinux10.example.com> 1760622872 +0000	pull origin main (pick): Update Jenkinsfile
+2ede8b2cf5bf27ef0b9e84e8aad087e8447933e0 2e7498fa508e21a812caa0afe95bd3731d331ca6 Super User <root@almalinux10.example.com> 1760622872 +0000	pull origin main (pick): Update README.md
+2e7498fa508e21a812caa0afe95bd3731d331ca6 2e7498fa508e21a812caa0afe95bd3731d331ca6 Super User <root@almalinux10.example.com> 1760622872 +0000	pull origin main (finish): returning to refs/heads/main
