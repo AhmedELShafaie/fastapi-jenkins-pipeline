@@ -25,5 +25,10 @@ pipeline{
                 sh "docker build . -t ahmedfathy/fastapi-example:${currentBuild.number}"
             }
         }
+       stage("Deploy"){
+	   steps{
+	       sh "docker container run --name fastapi --port 5000:80 -d ahmedfathy/fastapi-example:${currentBuild.number}"
+	}
+	}
     }
 }
